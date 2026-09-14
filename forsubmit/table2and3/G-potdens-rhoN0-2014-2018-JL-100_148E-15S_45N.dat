@@ -1,0 +1,15 @@
+Lorenz Energy Cycle generation, 2014-2018, daily-resolved
+Valid days: 1825
+Region: lon=[100, 148], lat=[-15, 45]
+n0 at surface (time+area mean d(rho_actual)/dz from daily rho files): -4.1118820012e-03 kg m-4
+
+term                                W               TW
+--------------------------------------------------------
+GKm                  3.9944391014e+10       0.03994439
+GKe                  2.7319674618e+10       0.02731967
+GPm_heat            -6.3304445835e+10      -0.06330445
+GPm_fw               1.3004662818e+10       0.01300466
+GPm                 -5.0299783017e+10      -0.05029978
+GPe_heat             4.7519169762e+10       0.04751917
+GPe_fw               2.1674378428e+10       0.02167438
+GPe                  6.9193548189e+10       0.06919355
