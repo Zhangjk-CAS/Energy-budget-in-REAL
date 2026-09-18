@@ -8,6 +8,7 @@ Each subdirectory contains the calculation programs and plotting programs for th
 
 A single program may be used for multiple subplots. To generate a specific subplot, change the relevant key fields in the program, such as the selected experiment, variable, or region, and rerun it. Check the input and output paths before running the programs in a new environment.
 
-## `real/`
+## `model and analysis scripts/real/`
 
-The `real/` directory contains the key parts of the lateral open boundary implementation used in REAL. 
+- `real/Code/` contains the complete LICOM-REAL source code and the model configuration used for the simulations.
+- `real/fort22toNC/` contains the utility used to convert the relevant instantaneous model output into NetCDF format.
