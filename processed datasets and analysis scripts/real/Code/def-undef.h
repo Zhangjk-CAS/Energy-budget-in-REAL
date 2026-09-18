@@ -1,0 +1,39 @@
+#define NX_PROC 9
+#define NY_PROC 9
+#define SPMD
+#define  SYNCH
+#undef  FRC_ANN
+#define CDFIN
+#undef  FRC_DAILY
+#define SOLAR
+#define  ACOS
+#define  BIHAR
+#undef  SMAG_FZ
+#undef  SMAG_OUT
+#define NETCDF
+#undef  BOUNDARY
+#define NODIAG
+#undef  ICE
+#undef SHOW_TIME
+#undef DEBUG
+#undef COUP
+#undef  ISO
+#define D_PRECISION
+#define  CANUTO
+#undef SOLARCHLORO
+#undef LDD97
+#define TSPAS
+#undef PRM
+#undef  SMAG
+#undef  USE_OCN_CARBON
+#define JMT_GLOBAL 641
+#define OBCDT
+#undef UV_NUDGE
+#undef TS_NUDGE
+#undef OBCSPONGE
+#undef OBTIDE
+#undef POTTIDE
+#undef TOGA_COARE_FLUX
+#define SWF_DIURNAL
+#define DAILYMEAN_OP
+#undef HOURLY_OP

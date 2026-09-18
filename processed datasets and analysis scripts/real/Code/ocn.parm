@@ -1,0 +1,23 @@
+ &namctl
+  DLAM       =0.1            !grid distance
+  AM_TRO     = 60
+  AM_EXT     = 60
+  IDTB       = 10    !6  
+  IDTC       = 180   !180
+  IDTS       = 180   !180 
+  AFB1       =0.43
+  AFC1       =0.43
+  AFT1       =0.43
+  AMV        = 1.0E-3
+  AHV        = 0.3E-4
+  NUMBER     = 72
+  NSTART     = 1 
+  diag_msf   =.true.
+  diag_mth   =.true.
+  diag_bsf   =.true. 
+  IO_HIST    = 1
+  IO_REST    = 1
+  klv        = 30
+  rest_freq  = 1
+  out_dir    = "/lustre/gmmcfs/zhangjk/testJacrom/exe"
+ &end
